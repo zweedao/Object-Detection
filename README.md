@@ -1,19 +1,25 @@
 # Scene Segmetation
 
-Detecting a red barrel in multiple scenes using a Gaussian model. 
+Detecting a red barrel in different scenes using Gaussian model. 
 
-## Results
+The followings are some examples:
+
+![result 1](/Result/001.png)
+
+![result 3](/Result/003.png)
+
+![result 4](/Result/004.png)
 
 
 ## How to run:
 
-1) To use pre-trained model & detect red barrel in new images:
+### To use pre-trained model & detect red barrel in new images:
 - Put images into folder "Test_Set"
 - In Terminal, run "python detect_barrel.py"
 - Result will be saved in folder "Result"
 
+### If you want to annotate & train the model from scratch:
 
-2) If you want to annotate & train the model yourself, do this:
 a) To annotate:
 - In Terminal, run "python annotate_barrel.py"
 - Draw polygon around the red barrel
@@ -22,3 +28,4 @@ a) To annotate:
 b) To train model:
 - In Terminal, run "python train.py"
 - Trained models will be saved in folder "Model"
+
