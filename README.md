@@ -1,4 +1,11 @@
-# How to run:
+# Scene Segmetation
+
+Detecting a red barrel in multiple scenes using a Gaussian model. 
+
+## Results
+
+
+## How to run:
 
 1) To use pre-trained model & detect red barrel in new images:
 - Put images into folder "Test_Set"
