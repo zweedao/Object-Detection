@@ -2,7 +2,7 @@
 
 Detecting a red barrel in different scenes using Gaussian model. 
 
-The followings are some examples:
+Some examples:
 
 ![result 1](/Result/001.png)
 
