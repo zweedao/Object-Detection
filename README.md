@@ -1,6 +1,6 @@
 # Scene Segmetation
 
-Detecting a red barrel in different scenes using Gaussian model. 
+Detecting position & distance of red barrels in different scenes using Gaussian model. 
 
 Some examples:
 
